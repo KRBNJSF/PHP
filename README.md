@@ -39,6 +39,26 @@ testFunction();
 PHP-FORM
 ---
 
+HTML
+```
+<form action="form.php" method="post">
+
+        First name: <input type="text" name="fname">
+        <input type="submit" value="Send">
+    
+    </form>
+```
+PHP
+```
+<?php
+$f_name = $_POST['fname'];
+
+echo "Ahoj . f_name";
+
+?>
+
+```
+
 Spustíme Xampp
 
 ![image](https://user-images.githubusercontent.com/90755554/169993697-9e123419-aaf6-435b-81fc-5c6494e84bfc.png)
