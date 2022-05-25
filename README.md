@@ -59,6 +59,12 @@ echo "Ahoj . f_name";
 
 ```
 
+htdocs - Přesuneme potřebné soubory
+
+![image](https://user-images.githubusercontent.com/90755554/169993367-a09b27b2-d7ad-4584-8ec8-4c715cd5271b.png)
+
+![image](https://user-images.githubusercontent.com/90755554/169993470-d8b773e2-75ac-4e55-a3c1-d533c8542f5a.png)
+
 Spustíme Xampp
 
 ![image](https://user-images.githubusercontent.com/90755554/169993697-9e123419-aaf6-435b-81fc-5c6494e84bfc.png)
@@ -66,12 +72,6 @@ Spustíme Xampp
 Start Apache
 
 ![image](https://user-images.githubusercontent.com/90755554/169993585-49dbd1ae-7a54-4657-aea6-eea178be6f95.png)
-
-htdocs - Přesuneme potřebné soubory
-
-![image](https://user-images.githubusercontent.com/90755554/169993367-a09b27b2-d7ad-4584-8ec8-4c715cd5271b.png)
-
-![image](https://user-images.githubusercontent.com/90755554/169993470-d8b773e2-75ac-4e55-a3c1-d533c8542f5a.png)
 
 Hotovo
 
